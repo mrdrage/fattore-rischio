@@ -4,7 +4,7 @@ La repository è stata creata come strumento per lo sviluppo del **Project Work*
 
 **Documento **
 File che raccoglie l'intero lavoro.
-Percorso: ['./Rapporto.pdf'](.Rapporto.pdf)
+Percorso: ['./Rapporto.pdf'](Rapporto.pdf)
 
 **Approfondimento **
 Documento esplicativo sul calcolo del fattore di rischio che fornisce una guida completa sul calcolo del fattore di rischio, includendo spiegazioni dettagliate, formule, esempi pratici e riferimenti alle normative di riferimento.
