@@ -1,5 +1,4 @@
 # Project Work - Privacy e sicurezza aziendale
-# Project Work - Privacy and Corporate Security
 
 ## ITA
 La repository è stata creata come strumento per lo sviluppo del **Project Work** realizzato da **Michele Ragone (Matricola 0312301822)** per l'**Università Telematica Pegaso**. Questo documento funge da **indice* dei materiali presenti e fornisce un accesso immmediato ai contenuti depositati.
