@@ -16,12 +16,10 @@ Documento esplicativo sul calcolo del fattore di rischio che fornisce una guida 
 *Percorso: ['./calcolo_del_fattore_di_rischio.pdf'](calcolo_del_fattore_di_rischio.pdf)*
 
 **Interfaccia web**
-
 Codice sorgente della pagina web per il download del documento esplicativo sul calcolo del fattore di rischio, sviluppata utilizzando linguaggi HTML e CSS.
 *Percorso: ['./index.html'](index.html)*
 
 **Pagina Web**
-
 Accesso diretto alla versione online del sito: **[Apri la pagina web](https://mrdrage.github.io/fattore-rischio/)**
 
 
