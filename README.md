@@ -8,7 +8,7 @@ Percorso: ['./Rapporto.pdf'](Rapporto.pdf)
 
 **Approfondimento **
 Documento esplicativo sul calcolo del fattore di rischio che fornisce una guida completa sul calcolo del fattore di rischio, includendo spiegazioni dettagliate, formule, esempi pratici e riferimenti alle normative di riferimento.
-Percorso: ['./calcolo_del_fattore_di_rischio.pdf'](./calcolo_del_fattore_di_rischio.pdf)
+Percorso: ['./calcolo_del_fattore_di_rischio.pdf'](calcolo_del_fattore_di_rischio.pdf)
 
 **Interfaccia web **
 Codice sorgente della pagina web per il download del documento esplicativo sul calcolo del fattore di rischio, sviluppata utilizzando linguaggi HTML e CSS.
