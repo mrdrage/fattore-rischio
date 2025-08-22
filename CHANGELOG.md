@@ -5,7 +5,7 @@ Lo scopo è fornire trasparenza e tracciabilità al percorso di sviluppo del Pro
 
 Le versioni sono organizzate in ordine cronologico inverso (dalla più recente alla più datata).
 
---
+---
 
 ## [1.1] - 21-08-2025
 ### Modifiche
@@ -27,6 +27,6 @@ Le versioni sono organizzate in ordine cronologico inverso (dalla più recente a
 - Caricamento iniziale dei file di progetto (PDF/HTML).
 - Primo aggiornamento di 'index.html'.
 
---
+---
 
 Il presente registro costituisce parte integrante della documentazione del Project Work, a supporto della valutazione accademica e della tracciabilità del lavoro svolto.
