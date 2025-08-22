@@ -11,17 +11,20 @@ Il documento principale del Project Work, redatto per raccogliere e presentare i
 
 *Percorso: [./Rapporto.pdf](Rapporto.pdf)*
 
+
 **Studio sul calcolo del rischio**
 
 Documento esplicativo sul calcolo del fattore di rischio che fornisce una guida completa sul calcolo del fattore di rischio, includendo spiegazioni dettagliate, formule, esempi pratici e riferimenti alle normative di riferimento.
 
 *Percorso: [./calcolo_del_fattore_di_rischio.pdf](calcolo_del_fattore_di_rischio.pdf)*
 
+
 **Interfaccia web**
 
 Codice sorgente della pagina web per il download del documento esplicativo sul calcolo del fattore di rischio, sviluppata utilizzando linguaggi HTML e CSS.
 
 *Percorso: [./index.html](index.html)*
+
 
 **Pagina web**
 
