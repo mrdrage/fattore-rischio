@@ -7,6 +7,12 @@ Le versioni sono organizzate in ordine cronologico inverso (dalla più recente a
 
 ---
 
+## [1.2] - 22-08-2025
+### Aggiunto
+- Creazione del file 'CHANGELOG.md' con introduzione, versioni precedenti e nota finale.
+- Aggiornamento del 'REAMDE.md' con richiamo al changelog.
+- Creazione del file 'CITATION.cff' per la citazione accademica della repository.
+
 ## [1.1] - 21-08-2025
 ### Modifiche
 - Aggiornamenti multipli al 'README.md' per rendere la repository dettagliata (testo, link, struttura).
