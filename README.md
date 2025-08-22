@@ -1,6 +1,6 @@
 # Project Work - Privacy e sicurezza aziendale
 
-La repository è stata creata come strumento per lo sviluppo del **Project Work** realizzato da **Michele Ragone (Matricola 0312301811)** per l'**Università Telematica Pegaso**. Questo documento funge da **indice* dei materiali presenti e fornisce un accesso immmediato ai contenuti depositati.
+La repository è stata creata come strumento per lo sviluppo del **Project Work** realizzato da **Michele Ragone (Matricola 0312301811)** per l'**Università Telematica Pegaso**. Questo documento funge da **indice** dei materiali presenti e fornisce un accesso immmediato ai contenuti depositati.
 
 **Rapporto finale**
 
@@ -22,4 +22,7 @@ Codice sorgente della pagina web per il download del documento esplicativo sul c
 **Pagina Web**
 Accesso diretto alla versione online del sito: **[Apri la pagina web](https://mrdrage.github.io/fattore-rischio/)**
 
+---
+## Cronologia delle modifiche
+Per la cronologia completa delle modifiche si veda il file [CHANGELOG.md](CHANGELOG.md).
 
